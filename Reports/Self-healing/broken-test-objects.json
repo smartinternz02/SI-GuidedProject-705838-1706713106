@@ -1,3 +1,84 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Amazon Registration/input_Your name_customerName",
+      "brokenLocator": "//input[@id\u003d\u0027ap_customer_name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Amazon Registration/input_Your name_customerName_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Amazon Registration/input_US 1_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Amazon Registration/input_US 1_email_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Amazon.com Shopping Cart/input_submit.delete.e6e45d33-2ebf-4db6-b00d_b52dc2",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.e6e45d33-2ebf-4db6-b00d-85dae73e4dfa\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Amazon.com Shopping Cart/input_submit.delete.e6e45d33-2ebf-4db6-b00d_b52dc2_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Manage your Profiles/div_Manage your Profiles_a-column a-span1 a_6e02f3",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Manage your Profiles\u0027])[2]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Manage your Profiles/div_Manage your Profiles_a-column a-span1 a_6e02f3_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Manage your Profiles/div_Rushikesh Ingale",
+      "brokenLocator": "//span[@id\u003d\u0027profile-pick-actor-button-0\u0027]/a/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Manage your Profiles\u0027])[2]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Manage your Profiles/div_Rushikesh Ingale_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Manage your Profiles/p_Rushikesh Ingale",
+      "brokenLocator": "\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Manage your Profiles\u0027])[2]/following::p[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Manage your Profiles/p_Rushikesh Ingale_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92",
+      "brokenLocator": "//select[@id\u003d\u0027searchDropdownBox\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@id \u003d \u0027searchDropdownBox\u0027 and @name \u003d \u0027url\u0027 and @title \u003d \u0027Search in\u0027 and (text() \u003d concat(\"\n        All Departments\n        Arts \u0026 Crafts\n        Automotive\n        Baby\n        Beauty \u0026 Personal Care\n        Books\n        Boys\" , \"\u0027\" , \" Fashion\n        Computers\n        Deals\n        Digital Music\n        Electronics\n        Girls\" , \"\u0027\" , \" Fashion\n        Health \u0026 Household\n        Home \u0026 Kitchen\n        Industrial \u0026 Scientific\n        Kindle Store\n        Luggage\n        Men\" , \"\u0027\" , \"s Fashion\n        Movies \u0026 TV\n        Music, CDs \u0026 Vinyl\n        Pet Supplies\n        Prime Video\n        Software\n        Sports \u0026 Outdoors\n        Tools \u0026 Home Improvement\n        Toys \u0026 Games\n        Video Games\n        Women\" , \"\u0027\" , \"s Fashion\n    \") or . \u003d concat(\"\n        All Departments\n        Arts \u0026 Crafts\n        Automotive\n        Baby\n        Beauty \u0026 Personal Care\n        Books\n        Boys\" , \"\u0027\" , \" Fashion\n        Computers\n        Deals\n        Digital Music\n        Electronics\n        Girls\" , \"\u0027\" , \" Fashion\n        Health \u0026 Household\n        Home \u0026 Kitchen\n        Industrial \u0026 Scientific\n        Kindle Store\n        Luggage\n        Men\" , \"\u0027\" , \"s Fashion\n        Movies \u0026 TV\n        Music, CDs \u0026 Vinyl\n        Pet Supplies\n        Prime Video\n        Software\n        Sports \u0026 Outdoors\n        Tools \u0026 Home Improvement\n        Toys \u0026 Games\n        Video Games\n        Women\" , \"\u0027\" , \"s Fashion\n    \"))]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Amazon Sign-In/input_Forgot your password_password",
+      "brokenLocator": "//input[@id\u003d\u0027ap_password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR/Page_Amazon Sign-In/input_Forgot your password_password_position.png"
+    }
+  ]
 }
