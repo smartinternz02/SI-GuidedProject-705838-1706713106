@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_TestListner" time="33.672" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_TestListner" tests="1" failures="0" errors="0" time="33.672" skipped="0" timestamp="2024-01-31 19:18:49" hostname="Rishi - Rishi" id="Test Suites/Amazon/Amazon_TestListner">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Rishi\\git\\Katalon_Automation_Testing_SB_GITHub\\Reports\\20240131_191845\\Amazon\\Amazon_TestListner\\20240131_191845"/>
+         <property name="logFiles" value="C:\\Users\\Rishi\\git\\Katalon_Automation_Testing_SB_GITHub\\Reports\\20240131_191845\\Amazon\\Amazon_TestListner\\20240131_191845\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rishi - Rishi"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="9eb2929e257d51d7d01759d2231af7a2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amazon_Home/Amazon_TestListerner_TC_CP/TC_Amazon_Validate_Input_and_Checkbox_Button - Copy" time="33.249" classname="Test Cases/Amazon_Home/Amazon_TestListerner_TC_CP/TC_Amazon_Validate_Input_and_Checkbox_Button - Copy" status="PASSED">
+         <system-out><![CDATA[2024-01-31 19:18:49 - [TEST_CASE][PASSED] - Test Cases/Amazon_Home/Amazon_TestListerner_TC_CP/TC_Amazon_Validate_Input_and_Checkbox_Button - Copy: Test Cases/Amazon_Home/Amazon_TestListerner_TC_CP/TC_Amazon_Validate_Input_and_Checkbox_Button - Copy
+
+2024-01-31 19:18:49 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/' successfully
+
+2024-01-31 19:18:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-01-31 19:18:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-31 19:18:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-31 19:18:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-01-31 19:18:53 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+2024-01-31 19:18:55 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+2024-01-31 19:18:55 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92"), "search-alias=stripbooks-intl-ship", true): All options with value 'search-alias=stripbooks-intl-ship' are selected in object 'Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92'  using regular expression
+
+2024-01-31 19:19:04 - [MESSAGE][PASSED] - All options with value 'search-alias=stripbooks-intl-ship' are selected in object 'Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92'  using regular expression
+
+2024-01-31 19:19:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "Da vinci code"): Text 'Da vinci code' is set on object 'Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+2024-01-31 19:19:05 - [MESSAGE][PASSED] - Text 'Da vinci code' is set on object 'Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+2024-01-31 19:19:05 - [TEST_STEP][PASSED] - click(findTestObject("Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+2024-01-31 19:19:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+2024-01-31 19:19:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox")): Object: 'Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox' is clicked on
+
+2024-01-31 19:19:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox' is clicked on
+
+2024-01-31 19:19:17 - [TEST_STEP][PASSED] - unchecked = verifyElementNotChecked(findTestObject("Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox"), 0): Object 'Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox' is not checked
+
+2024-01-31 19:19:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2024-01-31 19:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox' is not checked
+
+2024-01-31 19:19:18 - [TEST_STEP][PASSED] - if (unchecked == true): null
+
+2024-01-31 19:19:18 - [TEST_STEP][PASSED] - out.println("element not checked"): null
+
+2024-01-31 19:19:18 - [TEST_STEP][PASSED] - check(findTestObject("Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox")): Object 'Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox' is checked
+
+2024-01-31 19:19:19 - [MESSAGE][PASSED] - Object 'Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox' is checked
+
+2024-01-31 19:19:19 - [TEST_STEP][PASSED] - out.println("element checked"): null
+
+2024-01-31 19:19:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-01-31 19:19:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-01-31 19:19:22 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+2024-01-31 19:19:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-01-31 19:19:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-31 19:18:49 - [TEST_SUITE][PASSED] - Amazon_TestListner: Test Cases/Amazon_Home/Amazon_TestListerner_TC_CP/TC_Amazon_Validate_Input_and_Checkbox_Button - Copy]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

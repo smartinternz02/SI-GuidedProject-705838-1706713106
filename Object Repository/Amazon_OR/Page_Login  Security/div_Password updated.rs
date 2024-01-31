@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password updated</name>
+   <tag></tag>
+   <elementGuidId>23061b12-14e4-4ef6-9c67-85f26035fe0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SUCCESS_MESSAGES']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-alert-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bab132d-ea73-4147-8b74-206b255b252d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-alert-content</value>
+      <webElementGuid>e63a5df0-cd3c-41ac-9fa5-3bb31a4b7b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password updated. </value>
+      <webElementGuid>f57d55a4-358a-4bfb-acc1-501997c34be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SUCCESS_MESSAGES&quot;)/div[@class=&quot;a-box-inner a-alert-container&quot;]/div[@class=&quot;a-alert-content&quot;]</value>
+      <webElementGuid>b867b3aa-fb01-4647-b016-93de2227708d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SUCCESS_MESSAGES']/div/div</value>
+      <webElementGuid>2ee5c25e-ca1c-4c70-92db-a03373b53dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login &amp; Security'])[2]/following::div[3]</value>
+      <webElementGuid>a2ed8bc9-03de-44dd-b28b-de7552100ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your account'])[1]/following::div[3]</value>
+      <webElementGuid>061143c3-e16e-46dd-998b-0cecf9bbd1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login &amp; Security'])[3]/preceding::div[1]</value>
+      <webElementGuid>a0b1843f-6450-4a72-af95-fd501a2b06c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::div[2]</value>
+      <webElementGuid>e357b0c9-212d-414d-9caa-0a258dd69e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password updated.']/parent::*</value>
+      <webElementGuid>52ce43e4-431d-4c3c-8c5e-507c3bf6720b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div</value>
+      <webElementGuid>5befb4ce-cce5-4b1a-9293-9113cb0b5d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password updated. ' or . = 'Password updated. ')]</value>
+      <webElementGuid>338c5f9d-5a42-47aa-8325-54c4a9977e17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

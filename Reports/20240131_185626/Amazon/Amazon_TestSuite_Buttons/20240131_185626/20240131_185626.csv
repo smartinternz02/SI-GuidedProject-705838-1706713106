@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_Buttons,Chrome 121.0.0.0,,,2024-01-31 18:56:31,2024-01-31 18:57:15,43.853s,ERROR
+,,,,,,,
+Test Cases/TC_Amazon_ValidateSearchFieldItem_002,Chrome 121.0.0.0,,,2024-01-31 18:57:11,2024-01-31 18:57:15,4.356s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-01-31 18:57:11,2024-01-31 18:57:14,3.604s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), Books, STOP_ON_FAILURE)",Chrome 121.0.0.0,,,2024-01-31 18:57:14,2024-01-31 18:57:14,0.092s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-01-31 18:57:14,2024-01-31 18:57:15,0.649s,PASSED

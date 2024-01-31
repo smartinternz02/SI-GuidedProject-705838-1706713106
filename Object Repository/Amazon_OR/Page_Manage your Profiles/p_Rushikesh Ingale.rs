@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rushikesh Ingale</name>
+   <tag></tag>
+   <elementGuidId>622acda3-df6a-4725-87fa-73118d98cc1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#home-profile-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>96db6215-a4d3-4c73-805b-fa631546a42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>home-profile-0</value>
+      <webElementGuid>5492a407-8595-428b-af96-88a186fb93be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-spacing-mini a-spacing-top-mini</value>
+      <webElementGuid>d9ee856c-ec43-42d0-8cb8-bf9ac1e39371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Rushikesh Ingale
+                </value>
+      <webElementGuid>4e0fea8c-150c-4d1c-8e09-651deb843d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-profile-0&quot;)</value>
+      <webElementGuid>a094768d-5960-4e7c-935b-239d86cc8d5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='home-profile-0']</value>
+      <webElementGuid>56872a2a-41f7-4d04-b520-c3201c8e253f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='profile-pick-actor-button-0']/a/div/div/p</value>
+      <webElementGuid>e521b854-60ba-4113-a48a-e62770076a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage your Profiles'])[2]/following::p[3]</value>
+      <webElementGuid>aa6f7e82-87be-4982-999c-361841ca0f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disability Customer Support'])[1]/following::p[3]</value>
+      <webElementGuid>d439baea-20c6-4b36-813c-8893726df0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='posts, reviews and other public content'])[1]/preceding::p[2]</value>
+      <webElementGuid>e7f999e3-297e-4642-bba6-9fd34b215fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rushikesh Ingale']/parent::*</value>
+      <webElementGuid>b5eb659c-90cb-4182-848b-07b3ebf4b941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/p</value>
+      <webElementGuid>3396d01a-9789-4f27-bdc9-21c5a30930f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'home-profile-0' and (text() = '
+                    Rushikesh Ingale
+                ' or . = '
+                    Rushikesh Ingale
+                ')]</value>
+      <webElementGuid>ec441fbf-1393-4b9a-99f6-633aaeadeb1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

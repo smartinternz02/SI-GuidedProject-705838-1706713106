@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search Amazon_icp-nav-flag icp-nav-flag-us icp-nav-flag-lop</name>
+   <tag></tag>
+   <elementGuidId>a59eb938-5f09-44d6-9962-b6251cf6d718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='icp-nav-flyout']/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icp-nav-flag.icp-nav-flag-us.icp-nav-flag-lop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f409a897-88d2-4d02-bf4d-7744ad148462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icp-nav-flag icp-nav-flag-us icp-nav-flag-lop</value>
+      <webElementGuid>caf6f90f-6d4a-4050-a94c-bf9da188c1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-nav-flyout&quot;)/span[@class=&quot;icp-nav-link-inner&quot;]/span[@class=&quot;nav-line-2&quot;]/span[@class=&quot;icp-nav-flag icp-nav-flag-us icp-nav-flag-lop&quot;]</value>
+      <webElementGuid>b731253e-f669-4fcc-8cb8-e7c9106f578e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='icp-nav-flyout']/span/span[2]/span</value>
+      <webElementGuid>0619cf6b-3e46-428e-b502-033a56403916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>3939fa76-23e4-4dcc-909b-4aec715fdde7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

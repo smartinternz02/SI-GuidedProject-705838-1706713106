@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_Amazon,Chrome 121.0.0.0,,,2024-01-30 09:53:00,2024-01-30 09:53:51,51.710s,PASSED
+,,,,,,,
+Test Cases/Amazon_Home/TC_AMAZON_HOME_VALIDATE_SIGN_IN-002,Chrome 121.0.0.0,,,2024-01-30 09:53:00,2024-01-30 09:53:26,26.156s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-01-30 09:53:01,2024-01-30 09:53:04,3.434s,PASSED
+"navigateToUrl(""http://www.amazon.com"")",Chrome 121.0.0.0,,,2024-01-30 09:53:04,2024-01-30 09:53:06,2.368s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon Registration/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,2024-01-30 09:53:06,2024-01-30 09:53:09,2.415s,PASSED
+"setText(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email""), mobileno)",Chrome 121.0.0.0,,,2024-01-30 09:53:09,2024-01-30 09:53:11,1.841s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Enter your email or mobile phone number_continue""))",Chrome 121.0.0.0,,,2024-01-30 09:53:11,2024-01-30 09:53:13,2.432s,PASSED
+"setText(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Forgot your password_password""), password)",Chrome 121.0.0.0,,,2024-01-30 09:53:13,2024-01-30 09:53:15,1.529s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,2024-01-30 09:53:15,2024-01-30 09:53:15,0.463s,PASSED
+"mouseOver(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/span_Account  Lists""))",Chrome 121.0.0.0,,,2024-01-30 09:53:15,2024-01-30 09:53:22,6.864s,PASSED
+"verifyElementPresent(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/span_Manage Profiles""), 20)",Chrome 121.0.0.0,,,2024-01-30 09:53:22,2024-01-30 09:53:26,3.665s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-01-30 09:53:26,2024-01-30 09:53:26,0.689s,PASSED
+,,,,,,,
+Test Cases/Amazon_Home/TC_Amazon_ValidateSearchFieldItem_002,Chrome 121.0.0.0,,,2024-01-30 09:53:26,2024-01-30 09:53:51,25.111s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-01-30 09:53:27,2024-01-30 09:53:28,1.258s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,2024-01-30 09:53:28,2024-01-30 09:53:30,2.547s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",Chrome 121.0.0.0,,,2024-01-30 09:53:30,2024-01-30 09:53:35,4.353s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Da vinci code"")",Chrome 121.0.0.0,,,2024-01-30 09:53:35,2024-01-30 09:53:36,1.019s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,2024-01-30 09:53:36,2024-01-30 09:53:42,5.801s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""))",Chrome 121.0.0.0,,,2024-01-30 09:53:42,2024-01-30 09:53:45,3.863s,PASSED
+"unchecked = verifyElementNotChecked(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""), 0)",Chrome 121.0.0.0,,,2024-01-30 09:53:45,2024-01-30 09:53:47,1.430s,PASSED
+if (unchecked == true),Chrome 121.0.0.0,,,2024-01-30 09:53:47,2024-01-30 09:53:48,0.775s,PASSED
+delay(3),Chrome 121.0.0.0,,,2024-01-30 09:53:48,2024-01-30 09:53:51,3.031s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-01-30 09:53:51,2024-01-30 09:53:51,0.676s,PASSED

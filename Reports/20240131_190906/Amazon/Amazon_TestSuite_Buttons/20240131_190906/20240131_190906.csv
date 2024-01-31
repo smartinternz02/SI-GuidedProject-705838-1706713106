@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_Buttons,Chrome 121.0.0.0,,,2024-01-31 19:09:10,2024-01-31 19:10:24,1m - 13.937s,PASSED
+,,,,,,,
+Test Cases/Amazon_Home/Amazon_Home_Search_CheckBox/TC_Amazon_Validate_Input_and_Checkbox_Button,Chrome 121.0.0.0,,,2024-01-31 19:09:11,2024-01-31 19:09:48,37.555s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-01-31 19:09:11,2024-01-31 19:09:16,4.979s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",Chrome 121.0.0.0,,,2024-01-31 19:09:16,2024-01-31 19:09:33,16.500s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Da vinci code"")",Chrome 121.0.0.0,,,2024-01-31 19:09:33,2024-01-31 19:09:35,1.907s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,2024-01-31 19:09:35,2024-01-31 19:09:40,5.105s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""))",Chrome 121.0.0.0,,,2024-01-31 19:09:40,2024-01-31 19:09:42,2.603s,PASSED
+"unchecked = verifyElementNotChecked(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""), 0)",Chrome 121.0.0.0,,,2024-01-31 19:09:42,2024-01-31 19:09:43,1.147s,PASSED
+if (unchecked == true),Chrome 121.0.0.0,,,2024-01-31 19:09:43,2024-01-31 19:09:44,0.995s,PASSED
+delay(3),Chrome 121.0.0.0,,,2024-01-31 19:09:44,2024-01-31 19:09:47,3.050s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-01-31 19:09:47,2024-01-31 19:09:48,0.779s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validate_DropDownButton,Chrome 121.0.0.0,,,2024-01-31 19:09:48,2024-01-31 19:10:24,35.982s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-01-31 19:09:48,2024-01-31 19:09:51,2.463s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-01-31 19:09:51,2024-01-31 19:09:53,1.932s,PASSED
+"navigateToUrl(""www.amazon.com"")",Chrome 121.0.0.0,,,2024-01-31 19:09:53,2024-01-31 19:09:54,1.098s,PASSED
+refresh(),Chrome 121.0.0.0,,,2024-01-31 19:09:54,2024-01-31 19:09:55,0.496s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""))",Chrome 121.0.0.0,,,2024-01-31 19:09:55,2024-01-31 19:10:09,14.255s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",Chrome 121.0.0.0,,,2024-01-31 19:10:09,2024-01-31 19:10:11,2.131s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Da vinci code"")",Chrome 121.0.0.0,,,2024-01-31 19:10:11,2024-01-31 19:10:12,0.908s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,2024-01-31 19:10:12,2024-01-31 19:10:16,4.138s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""))",Chrome 121.0.0.0,,,2024-01-31 19:10:16,2024-01-31 19:10:19,2.936s,PASSED
+"unchecked = verifyElementNotChecked(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""), 0)",Chrome 121.0.0.0,,,2024-01-31 19:10:19,2024-01-31 19:10:20,0.896s,PASSED
+if (unchecked == true),Chrome 121.0.0.0,,,2024-01-31 19:10:20,2024-01-31 19:10:20,0.551s,PASSED
+delay(3),Chrome 121.0.0.0,,,2024-01-31 19:10:20,2024-01-31 19:10:23,3.015s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-01-31 19:10:23,2024-01-31 19:10:24,0.769s,PASSED

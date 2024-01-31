@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manage Profiles</name>
+   <tag></tag>
+   <elementGuidId>be15cd7f-87cd-44a3-a3bb-f5ec8dae2d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-ksBlkl.sc-jRwbcX.fedVjG.fqsXfW</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='selectProfileModalId']/div/button/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4915248-2851-4e44-bc44-e26d0c63f940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-ksBlkl sc-jRwbcX fedVjG fqsXfW</value>
+      <webElementGuid>674e6452-8011-4c11-abb2-e394a1e682eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Profiles</value>
+      <webElementGuid>c6fbfa36-94bf-4831-8bbb-c0ab36a808a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectProfileModalId&quot;)/div[@class=&quot;sc-GKYbw AzUXy&quot;]/button[@class=&quot;sc-gsGlKL dTwAZu&quot;]/div[@class=&quot;sc-fvEvSO iLGXrF&quot;]/span[@class=&quot;sc-ksBlkl sc-jRwbcX fedVjG fqsXfW&quot;]</value>
+      <webElementGuid>7017f59d-35b0-4728-91a7-187bf8a6a65a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='selectProfileModalId']/div/button/div[2]/span</value>
+      <webElementGuid>39d6a4a6-ae0c-47cf-a5c8-78ca411080da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[2]/span</value>
+      <webElementGuid>818c33d2-19d8-45c1-bf50-8b841fb8d286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manage Profiles' or . = 'Manage Profiles')]</value>
+      <webElementGuid>233628cc-63d3-4c13-b33d-6650d2f95eab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

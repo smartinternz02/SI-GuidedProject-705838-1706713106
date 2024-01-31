@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Help_nav-logo-base nav-sprite</name>
+   <tag></tag>
+   <elementGuidId>b564d61b-dbae-45b7-ac8c-f470fd4d1de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div[3]/span/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav-logo-base.nav-sprite</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62603d87-901c-4683-af9a-203efb1082e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-logo-base nav-sprite</value>
+      <webElementGuid>93cd24ed-c064-4124-880a-3906783d244c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterLine navFooterLinkLine navFooterPadItemLine&quot;]/span[1]/div[@class=&quot;navFooterLine navFooterLogoLine&quot;]/a[1]/div[@class=&quot;nav-logo-base nav-sprite&quot;]</value>
+      <webElementGuid>bbc50728-9ed3-448b-8d77-8834e9ac44ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div[3]/span/div/a/div</value>
+      <webElementGuid>c78f4638-81d2-4c55-93e1-398e2a5117d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/a/div</value>
+      <webElementGuid>fa7b9b1e-bf9f-49ad-8efa-48641c5994b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

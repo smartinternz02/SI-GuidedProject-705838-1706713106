@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testsuite_Cart_001,Chrome 121.0.0.0,,,2024-01-27 09:11:53,2024-01-27 09:13:15,1m - 22.776s,PASSED
+,,,,,,,
+Test Cases/Amazon_Home/TC_AMAZON_HOME_VALIDATE_Add_To_Cart-007,Chrome 121.0.0.0,,,2024-01-27 09:11:53,2024-01-27 09:12:54,1m - 0.651s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-01-27 09:11:53,2024-01-27 09:11:56,2.377s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,2024-01-27 09:11:56,2024-01-27 09:11:57,1.463s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""book"")",Chrome 121.0.0.0,,,2024-01-27 09:11:57,2024-01-27 09:12:08,10.497s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,2024-01-27 09:12:08,2024-01-27 09:12:13,5.145s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon.com Books/div_Atomic Habits An Easy  Proven Way to Bu_65f9e7"", [""variable"":""""]), STOP_ON_FAILURE)",Chrome 121.0.0.0,,,2024-01-27 09:12:13,2024-01-27 09:12:14,0.899s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com Books/input_submit.addToCart""))",Chrome 121.0.0.0,,,2024-01-27 09:12:14,2024-01-27 09:12:19,5.301s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon.com Shopping Cart/a_0                                                Cart""))",Chrome 121.0.0.0,,,2024-01-27 09:12:19,2024-01-27 09:12:21,2.350s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com Shopping Cart/input_submit.delete.e6e45d33-2ebf-4db6-b00d_b52dc2""))",Chrome 121.0.0.0,,,2024-01-27 09:12:21,2024-01-27 09:12:53,31.615s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-01-27 09:12:53,2024-01-27 09:12:54,0.682s,PASSED
+,,,,,,,
+Test Cases/Amazon_Home/TC_AMAZON_HOME_VALIDATE_Remove_From_Cart-008,Chrome 121.0.0.0,,,2024-01-27 09:12:54,2024-01-27 09:13:15,21.865s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-01-27 09:12:54,2024-01-27 09:12:55,1.132s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,2024-01-27 09:12:55,2024-01-27 09:12:56,1.468s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""BOOK"")",Chrome 121.0.0.0,,,2024-01-27 09:12:56,2024-01-27 09:13:04,7.120s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,2024-01-27 09:13:04,2024-01-27 09:13:09,5.890s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com Books/img_a-dynamic-image p13n-sc-dynamic-image p_302d0a""))",Chrome 121.0.0.0,,,2024-01-27 09:13:09,2024-01-27 09:13:10,0.873s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com Books/input_submit.addToCart""))",Chrome 121.0.0.0,,,2024-01-27 09:13:10,2024-01-27 09:13:14,4.014s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com Shopping Cart/div_Added to Cart""))",Chrome 121.0.0.0,,,2024-01-27 09:13:14,2024-01-27 09:13:15,1.134s,PASSED

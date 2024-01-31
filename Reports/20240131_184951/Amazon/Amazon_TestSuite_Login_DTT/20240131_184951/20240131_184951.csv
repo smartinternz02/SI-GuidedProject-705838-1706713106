@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_Login_DTT,Chrome 121.0.0.0,,,2024-01-31 18:49:55,2024-01-31 18:50:54,58.815s,PASSED
+,,,,,,,
+Test Cases/Amazon_Home/Amazon_DataDrivenTesting/TC_AMAZON_HOME_VALIDATE_LOGIN,Chrome 121.0.0.0,,,2024-01-31 18:49:56,2024-01-31 18:50:54,58.265s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-01-31 18:49:56,2024-01-31 18:50:01,4.752s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon Registration/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,2024-01-31 18:50:01,2024-01-31 18:50:12,10.843s,PASSED
+"setText(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email""), mobileno)",Chrome 121.0.0.0,,,2024-01-31 18:50:12,2024-01-31 18:50:14,1.723s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Enter your email or mobile phone number_continue""))",Chrome 121.0.0.0,,,2024-01-31 18:50:14,2024-01-31 18:50:17,3.632s,PASSED
+"setText(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Forgot your password_password""), password)",Chrome 121.0.0.0,,,2024-01-31 18:50:17,2024-01-31 18:50:19,1.685s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,2024-01-31 18:50:19,2024-01-31 18:50:20,0.501s,PASSED
+"mouseOver(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/span_Account  Lists""))",Chrome 121.0.0.0,,,2024-01-31 18:50:20,2024-01-31 18:50:50,30.511s,PASSED
+"verifyElementPresent(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/span_Manage Profiles""), 20)",Chrome 121.0.0.0,,,2024-01-31 18:50:50,2024-01-31 18:50:53,3.339s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-01-31 18:50:53,2024-01-31 18:50:54,0.758s,PASSED

@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_Amazon - Copy,Chrome 121.0.0.0,,,2024-01-30 10:05:33,2024-01-30 10:06:47,1m - 14.385s,PASSED
+,,,,,,,
+Test Cases/Amazon_Home/TC_Amazon_ValidateSearchFieldItem_002,Chrome 121.0.0.0,,,2024-01-30 10:05:52,2024-01-30 10:06:47,54.975s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-01-30 10:05:52,2024-01-30 10:06:09,16.307s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-01-30 10:06:09,2024-01-30 10:06:11,1.852s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,2024-01-30 10:06:11,2024-01-30 10:06:19,8.016s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",Chrome 121.0.0.0,,,2024-01-30 10:06:19,2024-01-30 10:06:24,4.752s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Da vinci code"")",Chrome 121.0.0.0,,,2024-01-30 10:06:24,2024-01-30 10:06:27,3.708s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,2024-01-30 10:06:27,2024-01-30 10:06:38,10.551s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""))",Chrome 121.0.0.0,,,2024-01-30 10:06:38,2024-01-30 10:06:41,3.000s,PASSED
+"unchecked = verifyElementNotChecked(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com  Da vinci code/i_Author_a-icon a-icon-checkbox""), 0)",Chrome 121.0.0.0,,,2024-01-30 10:06:41,2024-01-30 10:06:43,2.005s,PASSED
+if (unchecked == true),Chrome 121.0.0.0,,,2024-01-30 10:06:43,2024-01-30 10:06:44,0.568s,PASSED
+delay(3),Chrome 121.0.0.0,,,2024-01-30 10:06:44,2024-01-30 10:06:47,3.035s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-01-30 10:06:47,2024-01-30 10:06:47,0.737s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-01-30 10:06:47,2024-01-30 10:06:47,0.003s,PASSED

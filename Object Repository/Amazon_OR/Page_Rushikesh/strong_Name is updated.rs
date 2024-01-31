@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Name is updated</name>
+   <tag></tag>
+   <elementGuidId>ed1292e7-3073-44df-b1f7-4149a300b33a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div[2]/div/div/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.a-size-medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>a3cd1b72-d9e8-4da6-b22c-6003ab889c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-medium</value>
+      <webElementGuid>fa5189f6-2775-4f6e-ad66-c496c6acb20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name is updated</value>
+      <webElementGuid>cc7e0491-9191-4cac-a950-4d6538a8946c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;a-container changeover-container&quot;]/div[@class=&quot;a-changeover changeover&quot;]/div[@class=&quot;a-changeover-inner&quot;]/strong[@class=&quot;a-size-medium&quot;]</value>
+      <webElementGuid>34699323-43e6-43d8-a869-102c2c5ccf5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div[2]/div/div/strong</value>
+      <webElementGuid>cdf982c7-e435-4935-834c-bdbb2e6661f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('The account holder', &quot;'&quot;, 's profile cannot be removed.')])[1]/following::strong[1]</value>
+      <webElementGuid>c66f0c00-e51d-4c22-ba48-4986fce93ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrolled Programs'])[1]/following::strong[1]</value>
+      <webElementGuid>676a7c10-ef74-49ff-9129-65d50ce90349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Books you may like'])[1]/preceding::strong[1]</value>
+      <webElementGuid>330c431f-8819-46d8-aa71-a6e495661054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Name is updated']/parent::*</value>
+      <webElementGuid>9851d00d-1bcf-4571-b849-8367cfd80d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>15762ecd-30eb-4e35-b54e-ba694eeda0df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Name is updated' or . = 'Name is updated')]</value>
+      <webElementGuid>664aa1b0-262d-4f52-abe3-fa55201bddab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

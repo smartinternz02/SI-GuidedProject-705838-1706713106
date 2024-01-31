@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage your Profiles_a-column a-span1 a_6e02f3</name>
+   <tag></tag>
+   <elementGuidId>b0d12daf-e1e1-4fb3-8bb8-0af8f11ea0e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-column.a-span1.a-spacing-base.a-span-last</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1f53638-42fb-40a9-9383-1a7329ea8c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-column a-span1 a-spacing-base a-span-last</value>
+      <webElementGuid>81123d02-38d5-4fb0-b6ed-c0bc40f50251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile-pick-actor-button-0&quot;)/a[@class=&quot;a-color-base a-link-normal linkStylingHover&quot;]/div[@class=&quot;a-row a-spacing-top-small a-grid-vertical-align a-grid-center a-ws-row&quot;]/div[@class=&quot;a-column a-span1 a-spacing-base a-span-last&quot;]</value>
+      <webElementGuid>392377fe-bf44-4c08-ac93-a98a2782aa25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='profile-pick-actor-button-0']/a/div/div[2]</value>
+      <webElementGuid>2e76bd9e-ffdb-4f9e-a134-19b79e1acd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage your Profiles'])[2]/following::div[5]</value>
+      <webElementGuid>da0bef2e-b81c-47f5-af2b-74cbef2b1422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disability Customer Support'])[1]/following::div[21]</value>
+      <webElementGuid>5e4acd26-04ec-445d-9bef-df38c4fd2095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='posts, reviews and other public content'])[1]/preceding::div[4]</value>
+      <webElementGuid>b9bf818a-5d3a-4788-bd28-8cdc768e034c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]</value>
+      <webElementGuid>dfdebc88-bc21-4afc-a5c6-f4173cdc8d47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

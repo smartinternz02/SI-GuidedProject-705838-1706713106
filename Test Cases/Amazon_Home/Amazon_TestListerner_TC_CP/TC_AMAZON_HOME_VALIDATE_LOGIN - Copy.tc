@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AMAZON_HOME_VALIDATE_LOGIN - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fedb4aa-6043-4299-88f3-51cd4890bf2e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>afc4d71f-07da-4b20-9b4c-ebbced8bf873</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>170e3288-1c0e-423d-b75d-75b065d7a0df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>afc4d71f-07da-4b20-9b4c-ebbced8bf873</id>
+      <masked>false</masked>
+      <name>mobileno</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>170e3288-1c0e-423d-b75d-75b065d7a0df</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

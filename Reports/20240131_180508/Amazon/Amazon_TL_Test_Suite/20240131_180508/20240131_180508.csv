@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TL_Test_Suite,,,,2024-01-31 18:05:13,2024-01-31 18:05:15,2.069s,FAILED
+,,,,,,,
+Test Cases/Amazon_Home/Amazon_Home_Search_CheckBox/TC_Amazon_Validate_inputButton,,,,2024-01-31 18:05:15,2024-01-31 18:05:15,0.125s,FAILED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",,,,2024-01-31 18:05:15,2024-01-31 18:05:15,0.109s,FAILED

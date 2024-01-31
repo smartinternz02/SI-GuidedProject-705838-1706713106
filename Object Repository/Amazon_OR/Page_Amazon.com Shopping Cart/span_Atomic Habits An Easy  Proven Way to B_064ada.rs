@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Atomic Habits An Easy  Proven Way to B_064ada</name>
+   <tag></tag>
+   <elementGuidId>77a3c1c4-c441-4a68-b2bb-9d6474688f47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sc-active-e6e45d33-2ebf-4db6-b00d-85dae73e4dfa']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42e1b63f-06d3-4a4e-9c93-524988cbc826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base</value>
+      <webElementGuid>6d869acd-5df7-413a-9985-945b41400c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break...  Opens in a new tab   was removed from Shopping Cart. </value>
+      <webElementGuid>89e02559-3874-410a-a0bc-951a47b3838c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sc-active-e6e45d33-2ebf-4db6-b00d-85dae73e4dfa&quot;)/div[@class=&quot;sc-list-item-removed-msg&quot;]/div[@class=&quot;a-padding-medium&quot;]/span[@class=&quot;a-size-base&quot;]</value>
+      <webElementGuid>0cfb9ebd-ef30-4159-8b8a-f4f8a36af7a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-active-e6e45d33-2ebf-4db6-b00d-85dae73e4dfa']/div/div/span</value>
+      <webElementGuid>8d5bbbb2-f3e0-4e19-9b00-bec3dcb5764f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/span</value>
+      <webElementGuid>aa920b18-ca65-4f87-b1ce-2b380c2f076c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break...  Opens in a new tab   was removed from Shopping Cart. ' or . = '  Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break...  Opens in a new tab   was removed from Shopping Cart. ')]</value>
+      <webElementGuid>7491dd75-506e-445e-9bc9-655c80ef115e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

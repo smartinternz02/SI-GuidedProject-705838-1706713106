@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AMAZON_HOME_VALIDATE_SIGN_UP-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15e412b7-5746-498a-9e42-96bf14434c6f</testCaseGuid>
+</TestCaseEntity>

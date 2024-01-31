@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_United States</name>
+   <tag></tag>
+   <elementGuidId>a19f3dc0-2552-40eb-87b0-8ee6efc5eb98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='address-ui-widgets-countryCode']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-button-text.a-declarative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22a4e56f-ad56-4074-87bf-a6146d6dad05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text a-declarative</value>
+      <webElementGuid>bfaed8d8-3908-43bd-a88c-b147a081696a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>a-dropdown-button</value>
+      <webElementGuid>49d9afde-1de2-49a8-aaaf-5d3b01b1d0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>75441a49-c453-42dd-8ec4-1a8489986fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5bba2417-67f1-45a9-a628-4e0d0296c045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>United States</value>
+      <webElementGuid>bb2a2c8d-4497-4b24-bdb2-3346028bb752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;address-ui-widgets-countryCode&quot;)/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]</value>
+      <webElementGuid>57bf3f27-9181-4cfd-acad-24e8cc477511</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='address-ui-widgets-countryCode']/span/span</value>
+      <webElementGuid>6429ddb0-fee5-4fbd-8464-36dbb7ff53c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country/Region'])[1]/following::span[4]</value>
+      <webElementGuid>46c5971c-5ad2-455b-9d5b-c2209998af3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hmm. We couldn’t detect your location. Please grant amazon.com location permission in your browser'])[1]/following::span[18]</value>
+      <webElementGuid>1bee30a5-99f1-4226-902c-c1941f0a1cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unable to change country, please try again'])[1]/preceding::span[2]</value>
+      <webElementGuid>25032b17-8966-4714-81d0-2249e4cc2630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span/span</value>
+      <webElementGuid>e64d97f2-eec4-444c-ae17-ba8750b6c0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'United States' or . = 'United States')]</value>
+      <webElementGuid>ac027b76-6043-496d-85f3-7b357d6812d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

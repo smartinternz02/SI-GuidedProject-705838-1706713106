@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Test_Suite_DDT,Chrome 121.0.0.0,,,2024-01-31 17:41:13,2024-01-31 17:43:54,2m - 40.521s,ERROR
+,,,,,,,
+Test Cases/Amazon_Home/TC_AMAZON_HOME_VALIDATE_SIGN_IN-002,Chrome 121.0.0.0,,,2024-01-31 17:43:26,2024-01-31 17:43:54,27.516s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-01-31 17:43:26,2024-01-31 17:43:31,4.534s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-01-31 17:43:31,2024-01-31 17:43:33,1.900s,PASSED
+"navigateToUrl(""http://www.amazon.com"")",Chrome 121.0.0.0,,,2024-01-31 17:43:33,2024-01-31 17:43:34,1.363s,PASSED
+"click(findTestObject(""Amazon_OR/Page_Amazon Registration/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,2024-01-31 17:43:34,2024-01-31 17:43:53,18.833s,PASSED
+"setText(findTestObject(""Amazon_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email""), mobileno)",Chrome 121.0.0.0,,,2024-01-31 17:43:53,2024-01-31 17:43:53,0.070s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-01-31 17:43:53,2024-01-31 17:43:54,0.703s,PASSED

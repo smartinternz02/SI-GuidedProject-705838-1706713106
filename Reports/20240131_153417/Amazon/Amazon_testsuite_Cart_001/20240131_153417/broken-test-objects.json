@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR/Page_Amazon.com Shopping Cart/input_submit.delete.e6e45d33-2ebf-4db6-b00d_b52dc2",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.e6e45d33-2ebf-4db6-b00d-85dae73e4dfa\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240131_153417/Amazon/Amazon_testsuite_Cart_001/20240131_153417/Object Repository/Amazon_OR/Page_Amazon.com Shopping Cart/input_submit.delete.e6e45d33-2ebf-4db6-b00d_b52dc2_position.png"
+    }
+  ]
+}

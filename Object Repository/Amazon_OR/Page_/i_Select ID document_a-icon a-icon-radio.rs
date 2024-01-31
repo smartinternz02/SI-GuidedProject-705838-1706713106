@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Select ID document_a-icon a-icon-radio</name>
+   <tag></tag>
+   <elementGuidId>222ae56a-a532-49c7-8722-1b8c69449a5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='skip-for-now']/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#skip-for-now > div.a-radio.a-radio-fancy > label > i.a-icon.a-icon-radio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0ceb87bc-3a45-4a08-b223-737ea53e6591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-radio</value>
+      <webElementGuid>89b19861-b1de-4692-bfe1-fd5867afe55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skip-for-now&quot;)/div[@class=&quot;a-radio a-radio-fancy&quot;]/label[1]/i[@class=&quot;a-icon a-icon-radio&quot;]</value>
+      <webElementGuid>b1177ad7-3821-409c-bfc3-3cbc4a06b34d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='skip-for-now']/div/label/i</value>
+      <webElementGuid>02f671cf-fbac-403a-b9ee-61f3dd6a9054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/div/label/i</value>
+      <webElementGuid>c21c4afc-ac7a-4411-891c-05a22670a54e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Amazon_Login_Data_Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/TestData_Amazon/TestData_Amazon_Login</source-url>
+   </source-info>
+   <taken-date>2024-01-31T18:41:57.921</taken-date>
+   <column-names>
+      <column-name>mobileno</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "7387131032",
+      "checked": false
+    },
+    {
+      "value": "Pass@123",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
